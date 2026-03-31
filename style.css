@@ -1,0 +1,6 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; line-height: 1.6; }
+header { background: #4a90d9; color: white; padding: 40px; text-align: center; }
+main { padding: 40px; max-width: 800px; margin: auto; }
+section { margin: 20px 0; padding: 20px; background: #f4f4f4; border-radius: 8px; }
+footer { background: #333; color: white; padding: 20px; text-align: center; }
